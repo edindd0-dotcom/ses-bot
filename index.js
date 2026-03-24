@@ -1,7 +1,7 @@
 const { Client } = require('discord.js-selfbot-v13');
 
 // Tokenlarını buraya tırnak içinde, aralarına virgül koyarak ekle
-const tokens = ['MTQ2MDY0ODg5OTA4OTAxMDc2OQ.GLfSGE.5GCEPZf1vZ-XxGc8NAfBxPcbHRLyi2fhgi8hNA']; 
+const tokens = ['MTQ2MDY0ODg5OTA4OTAxMDc2OQ.GtcVXi.VTsUGBaC_dmocWv3yeDXdRZcct9G_EIYg2Rny0']; 
 const channelId = '1482894399502418032'; 
 
 tokens.forEach(token => {

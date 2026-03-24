@@ -1,2 +1,2 @@
-# ses-bot
-Discord
+Ses Bot
+Merhaba bu bir read me mesajı gemini tarafından kodlanarak yapılan scriptler bu index.js'e hesap tokenini yazıyorsun ve girmesini istediğin ses kanalının id'ini yazman yeterli...
