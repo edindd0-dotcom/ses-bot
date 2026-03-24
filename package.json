@@ -1,0 +1,11 @@
+{
+  "name": "belgrad-ses-botu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.11.0",
+    "@discordjs/voice": "^0.16.1",
+    "libsodium-wrappers": "^0.7.13",
+    "opusscript": "^0.0.8"
+  }
+}
